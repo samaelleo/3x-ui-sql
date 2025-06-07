@@ -32,7 +32,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/samaelleo/3x-ui-sql/refs/tags/v2.6.0/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/samaelleo/3x-ui-sql/refs/tags/v1/install.sh)
 ```
 
 ## Install legacy Version (we don't recommend)
